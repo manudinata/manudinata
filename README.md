@@ -22,4 +22,4 @@ I started to love code since I’m in fourth grade of Elementary School. In that
 
 # Contact me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://i.manudinata@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.manudinata@gmail.com)
